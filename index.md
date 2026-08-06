@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Escape Room: Stranded Astronaut
+title: Escape Room
 ---
 
 # V1
