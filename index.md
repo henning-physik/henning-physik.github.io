@@ -6,7 +6,7 @@ title: Escape Room; Rettet den Astronauten
 # V1
 [Stranded Astronaut](./v1/chatbox.html)
 
-<a href="./escape_room_ressources_v1.zip" download="./escape_room_ressources_v1.zip"> Ressourcen zum Durchführen</a>
+<iframe src="https://drive.google.com/file/d/1-Uy4YSScrIGuyrdLcxh9FWXi5PHc7JWU/preview" width="640" height="480"></iframe>
 
 # V2
 [Stranded Astronaut](./v2/chatbox.html)
