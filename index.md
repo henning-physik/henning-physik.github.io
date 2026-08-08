@@ -6,14 +6,18 @@ title: Escape Room; Rettet den Astronauten
 # V1
 [Stranded Astronaut](./v1/chatbox.html)
 
-<iframe src="https://drive.google.com/file/d/1-Uy4YSScrIGuyrdLcxh9FWXi5PHc7JWU/preview" width="640" height="480"></iframe>
+Ressourcen zum Durchführen (PP-Präsentation, sowie Sternbilder, -karte und Infotexte)
+
+https://drive.google.com/file/d/17VX2khlXToZ8O8RguBHBnu79cjzCv5kN/view?usp=sharing
 
 # V2
 [Stranded Astronaut](./v2/chatbox.html)
 
-<a href="./escape_room_ressources_v2.zip" download="escape_room_ressources_v2.zip"> Ressourcen zum Durchführen</a>
+Ressourcen zum Durchführen (PP-Präsentation, sowie Sternbilder, -karte und Infotexte)
+
+https://drive.google.com/file/d/1-Uy4YSScrIGuyrdLcxh9FWXi5PHc7JWU/view?usp=sharing
 
 # V3
 [Stranded Astronaut](./v3/chatbox.html)
 
-<a href="./escape_room_ressources_v3.zip" download="escape_room_ressources_v3.zip"> Ressourcen zum Durchführen</a>
+Ressourcen zum Durchführen (PP-Präsentation, sowie Sternbilder, -karte und Infotexte)
